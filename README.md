@@ -59,5 +59,8 @@ When deleting or updating, specify the expense by its ID.
 
 The month filter expects the month as a two-digit string (e.g., "01" for January).
 
+### Project URL
+https://roadmap.sh/projects/expense-tracker
+
 ### License
 This project is open source and free to use.
